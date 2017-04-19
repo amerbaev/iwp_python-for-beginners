@@ -1,8 +1,8 @@
 # Python для начинающих ИВП РАН
 
-##Python версии три брать [отсюда](https://www.python.org) (Downloads в меню на странице)
+## Python версии три брать [отсюда](https://www.python.org) (Downloads в меню на странице)
 Нежно устанавливаем, желательно поставить галочку напротив пункта 'Add to PATH' на первой странице установщика
 
-##Pycharm Community брать [здесь](https://www.jetbrains.com/pycharm/download/)
+## Pycharm Community брать [здесь](https://www.jetbrains.com/pycharm/download/)
 Еще нежнее устанавливаем и его тоже. При первом запуске предложит сделать красиво. Потыкайтесь и сделайте, как нравится вам. Автор курса использует тему Darkula, если вам вдруг интересно.
 
