@@ -1,1 +1,4 @@
-print(sum([int(i) for i in str(input()).split(' ')]))
+numbers = input().split(' ')
+s = [int(i) for i in numbers]
+print(sum(s))
+

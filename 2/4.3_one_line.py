@@ -1,1 +1,1 @@
-print([(i.count('c') + i.count('g')) * 100 / len(i) for i in [str(input().lower()),]][0])
+print([(i.count('c') + i.count('g')) * 100 / len(i) for i in [str(inpput().lower())]][0])
