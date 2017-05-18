@@ -8,5 +8,13 @@ with open('4.3_input.txt') as input_file:
         else:
             count_dict[word] += 1
 
-word_max_freq = max(count_dict, key=count_dict.get)
-print(word_max_freq, count_dict[word_max_freq])
+# word_max_freq = max(count_dict, key=count_dict.get)
+word_max = ''
+max_freq = 0
+for key in count_dict:
+    if count_dict[key] > max_freq:
+        word_max = key
+        max_freq = count_dict[key]
+
+print(word_max, max_freq)
+# print(word_max_freq, count_dict[word_max_freq])

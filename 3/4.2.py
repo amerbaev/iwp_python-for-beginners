@@ -1,7 +1,6 @@
 with open('dataset_3363_2.txt') as data:
     in_str = data.read()
 
-i = 0
 sym = ''
 mult = ''
 for i in in_str:

@@ -1,4 +1,4 @@
-import math
+from math import pi
 
 r = float(input())
-print(2 * math.pi * r)
+print(2 * pi * r)
